@@ -1,0 +1,16 @@
+algoritmo-semana1.txt
+
+
+Pregunta 5 — Actividad práctica de algoritmia
+Escribe un algoritmo de mínimo 6 pasos para explicar:
+
+INICIO
+
+1. Lavar el rostro con un limpiador suave.
+2. Secar la piel con una toalla limpia, sin frotar.
+3. Aplicar tónico (opcional).
+4. Aplicar suero (si se usa).
+5. Aplicar crema hidratante.
+6. SI es de día:
+      Aplicar protector solar.
+   FIN SI
