@@ -1,0 +1,44 @@
+**preguntas-semana5.txt**
+
+
+
+**Pregunta 1 — Selección múltiple**
+
+¿Qué es una ruta (route) en Express?
+
+
+
+B. Una dirección que define cómo responde el servidor a una solicitud
+
+
+
+**Pregunta 2 — Selección múltiple**
+
+¿Qué método HTTP se usa normalmente para consultar información?
+
+
+
+B. GET
+
+
+
+**Pregunta 3 — Selección múltiple**
+
+¿Qué método HTTP se usa normalmente para enviar o registrar información?
+
+
+
+A. POST
+
+
+
+**Pregunta 4 — Selección múltiple**
+
+¿Qué significa API?
+
+
+
+B. Interfaz que permite que sistemas o aplicaciones se comuniquen entre sí
+
+
+
