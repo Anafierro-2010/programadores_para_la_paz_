@@ -1,3 +1,0 @@
-La ruta POST /reporte recibe un mensaje del usuario y confirma que fue recibido.
-
-Sirve para que las personas puedan enviar reportes de problemas o emergencias en una comunidad.

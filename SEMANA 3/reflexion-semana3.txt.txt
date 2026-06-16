@@ -1,9 +1,0 @@
-reflexion-semana3.txt
-
-Usar Git es importante porque ayuda a tener control de todo lo que se va haciendo en un proyecto.
-Si alguien borra algo o se daña un archivo, se puede recuperar fácil.
-También sirve para ver los cambios que se hicieron antes y no perderse.
-Cuando varias personas trabajan juntas, todo queda más ordenado.
-Así se evitan confusiones y errores.
-Además, uno puede probar cosas nuevas sin miedo a dañar el proyecto principal.
-En general, hace que trabajar en software sea mucho más cómodo y organizado.
