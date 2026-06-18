@@ -1,0 +1,11 @@
+El comando `uname -a` muestra información sobre el sistema operativo que se está utilizando, incluyendo el nombre del sistema, la versión y la arquitectura del equipo.
+
+En mi caso el resultado fue:
+MINGW64_NT-10.0-26100 Valentina 3.6.7-fb42d713.x86_64 2026-03-29 11:44 UTC x86_64 Msys
+
+El comando `whoami` muestra el nombre del usuario que tiene iniciada la sesión actual.
+
+En mi caso el resultado fue:
+USUARIO EAT
+
+Conocer esta información es útil porque permite identificar el sistema y el usuario que está trabajando. Esto ayuda en tareas de administración, configuración y seguridad de servidores o plataformas digitales.
