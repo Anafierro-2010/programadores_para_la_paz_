@@ -1,0 +1,17 @@
+Modelo básico de datos
+
+Entidad: Causa
+- id: Identificador único de la causa.
+- titulo: Nombre de la causa.
+- descripcion: Explicación del problema o la solicitud.
+- fecha: Fecha de creación.
+
+Esta entidad almacena la información principal de cada petición creada por la comunidad.
+
+Entidad: Apoyo
+- id: Identificador único del apoyo.
+- causa_id: Identificador de la causa a la que pertenece el apoyo.
+- nombre: Nombre de la persona que brinda el apoyo.
+- fecha: Fecha en que se registró el apoyo.
+
+Esta entidad registra cada apoyo recibido y permite relacionarlo con la causa correspondiente.
